@@ -8,7 +8,7 @@
 
 # Tofu Scramble
 
-Let's do some breakfast!
+Let's make some breakfast!
 
 ![This is an image](https://simpleveganblog.com/wp-content/uploads/2019/04/Simple-tofu-scramble.jpg)
 
