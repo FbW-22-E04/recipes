@@ -7,4 +7,4 @@ Better home made. Nothing simpler than mixing water, yeast, flour, salt and oil.
 Put a lot of love and it will taste really good!
 
 
-![Pizza](https://www.silviocicchi.com/pizzachef/pizza-alla-romana-ricetta-della-scrocchiarella/?lang=en)
+![Pizza](https://www.fattiretours.com/blog/wp-content/uploads/2019/05/pizza-blog-770x364.jpg)
