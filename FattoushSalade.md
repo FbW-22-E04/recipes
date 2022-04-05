@@ -50,10 +50,10 @@ Make sure to stir frequently until the pita bread is lightly golden brown.
 1. Use the freshest ingredients possible for the best salad. It can be hard to do that during the winter months, but selecting high quality fresh vegetables will create the best results!
 2. Keep the fried pita on the side when serving. You can toss it on top right at the table or allow everyone enjoying the salad to add as much as they want.
 3. Make the dressing in a blender or small food processor. That will really help to emulsify the dressing so that it doesn’t separate. If you’re mixing by hand, it helps to press or grate the garlic to keep it fine.
-​
-​
+
+
 #INGREDIENTS
-  
+
 ##Salad
 - 1 large head romaine lettuce chopped
 - 1 large vine-ripe tomato diced
