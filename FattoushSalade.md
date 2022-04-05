@@ -28,19 +28,19 @@ Green onions: While you can use white, yellow or red onions, green onions have a
 ​
 # HOW TO MAKE FATTOUSH SALAD
 ​
-# CHOP THE INGREDIENTS
+## CHOP THE INGREDIENTS
 ​
 - It’s a good idea to small dice all the ingredients so that every bite of fattoush is complete with all the textures and flavors of the salads.
 ​
-# MAKE THE DRESSING
+## MAKE THE DRESSING
 ​
 - Made with extra virgin olive oil, fresh lemon juice, mint, sumac. This zesty dressing is what separates authentic fattoush from all other fattoush. It helps the salad come together with a distinguished taste.
 ​
-# FRY OT TOAST THE LEBANESE PITA BREAD
+## FRY OT TOAST THE LEBANESE PITA BREAD
 Cut the pita into the desired shapes (triangles, squares or strips). Toss with olive oil, salt and pepper and fry on medium heat.
 Make sure to stir frequently until the pita bread is lightly golden brown.
 ​
-# ASSEMBLE
+## ASSEMBLE
 ​
 - Start building the fattoush salad by adding all the chopped ingredients to a large bowl.
 - Pour the dressing on top.
@@ -49,16 +49,16 @@ Make sure to stir frequently until the pita bread is lightly golden brown.
 # TIPS FOR MAKING THE RECIPE
 1. Use the freshest ingredients possible for the best salad. It can be hard to do that during the winter months, but selecting high quality fresh vegetables will create the best results!
 2. Keep the fried pita on the side when serving. You can toss it on top right at the table or allow everyone enjoying the salad to add as much as they want.
-3. Make the dressing in a blender or small food processor. That will really help to emulsify the dressing so that it doesn’t separate. If you’re mixing by hand, it helps to press or grate the garlic to keep it fine.
-​
-​
-INGREDIENTS
-  
-##Salad
+3. Make the dressing in a blender or small food processor. That will really help to emulsify the dressing so that it doesn’t separate. If you’re mixing by hand, it helps to press or grate the garlic to keep it fine. 
+
+
+#INGREDIENTS 
+
+##Salad 
 - 1 large head romaine lettuce chopped
 - 1 large vine-ripe tomato diced
 - 2-3 Persian cucumbers quartered
-▢½ large green pepper chopped
+-½ large green pepper chopped
 - 5 radishes diced
 - 2 green onions chopped
 - ¼ cup fresh chopped parsley
